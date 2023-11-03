@@ -9,6 +9,7 @@
   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174881.png">
  </div>
 
 <a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
