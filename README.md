@@ -1,7 +1,7 @@
 ### Oii! Eu sou o Leo Jatahy 👋
 - 🔭 front-end
-- 🌱 estudando JavaScript 
-- 💬 futuramente react ou Angular
+- 🌱 estudando React e Python
+- 💬 vou esturdar futuramente Angular
 - 📫 contate-me no email: leojatahy@gmail.com
 
 <div style="display: inline_block"><br>
